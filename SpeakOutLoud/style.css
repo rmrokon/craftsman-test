@@ -1,0 +1,52 @@
+.header-menu{
+    float: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding: 0px 30px 15px 20px;
+}
+.header-menu a{
+    padding: 0px 10px;
+    text-decoration: none;
+    color: darkslategray;
+}
+.header-menu a:hover{
+    background-color: white;
+}
+.main-heading{
+    background-color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px 30px 15px 20px;
+
+}
+body{
+    background-color: aquamarine;
+}
+
+.main-div{
+    text-align: center;
+    margin-top: 150px;
+}
+.main-div p{
+    font-family: Helvetica, sans-serif;
+}
+
+#form1 label {
+    display: block;
+    padding: 5px;
+}
+
+#form1 label input{
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+    width: 30%;
+    height: 30px;
+}
+#form1 button{
+    border-radius: 10px;
+    border-color: darkgreen;
+    width: 15%;
+    margin-top: 10px;
+}
+#form1 small{
+    margin-top: 15px;
+}
